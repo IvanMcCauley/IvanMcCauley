@@ -13,8 +13,8 @@ Throughout my degree, I designed autonomous vehicles, programmed microcontroller
 
 🌱 **Projects**  
 - 📌 [5 Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) — real-time reaction timer using Arduino  
-- 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) — Wi-Fi connected AV prototype
-- 🚗 [AGV – Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) — custom-built line-following robot using optical sensors and MCU
+- 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) — Wi-Fi connected mobile robot
+- 🚗 [AGV – Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) — custom-built line-following vehicle using optical sensors and MCU
 
 
 📫 **Let’s Connect**  
