@@ -12,8 +12,8 @@ Throughout my degree, I designed autonomous vehicles, programmed microcontroller
 - Currently Learning: ROS2, Sensor Fusion, Motion Planning
 
 🌱 **Projects Coming Soon**  
-- 📌 [5 Second Stop Rig](#) — real-time reaction timer using Arduino  
-- 🚗 [Autonomous Vehicle Path Tracker](#) — Wi-Fi connected AV prototype
+- 📌 [5 Second Stop Rig](5-Second-Stop-Rig) — real-time reaction timer using Arduino  
+- 🚗 [Autonomous Vehicle Path Tracker]() — Wi-Fi connected AV prototype
 
 📫 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/ivan-mccauley-82b17a177)  
