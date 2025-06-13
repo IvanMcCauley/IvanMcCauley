@@ -7,7 +7,7 @@ Throughout my degree, I designed autonomous robots, programmed microcontrollers,
 
 🔧 **Tech Stack**  
 - Programming: Python, C++, Embedded C, MATLAB  
-- Tools & Platforms: Arduino IDE, OpenCV, MATLABSimulink, MPLAB X, Git
+- Tools & Platforms: Arduino IDE, OpenCV, MATLAB/Simulink, MPLAB X, Git
 - Domains: Robotics, Control Systems, Embedded Systems, Signal Processing  
 - Currently Learning: Motion Planning
 
