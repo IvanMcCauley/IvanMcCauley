@@ -12,6 +12,8 @@ Throughout my degree, I designed autonomous robots, programmed microcontrollers,
 - Currently Learning: Motion Planning
 
 🌱 **Projects**  
+- 🧭 [Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation) — Python-based AV logic simulator using A*, LIDAR-style visibility, and dynamic replanning in real time
+
 - 🛣️ [Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection) — computer vision pipeline using OpenCV to detect and overlay road lanes from my dashcam footage
 - 📌 [5 Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) — real-time reaction timer using Arduino  
 - 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) — Wi-Fi connected mobile robot
