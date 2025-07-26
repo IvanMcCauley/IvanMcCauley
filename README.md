@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Ivan McCauley  
 ### Mechatronics Engineer | Robotics | Embedded Systems
 
-I'm a Mechatronics Engineering graduate with a passion for robotics, autonomous vehicles, and intelligent systems. I enjoy working at the intersection of software and hardware, where embedded systems meet machine learning, and control theory becomes real-world motion.
+I’m a Mechatronics Engineering graduate focused on autonomous vehicles, robotics, and intelligent systems. I’ve been building hands-on systems where hardware, embedded logic, control, and perception all come together in real time.
 
-Throughout my degree, I designed autonomous robots, programmed microcontrollers, and built hardware-software systems using Python, C++, and MATLAB. I'm driven by building things that *actually work*, and I'm currently diving deeper into control systems and perception for autonomous vehicles as it's my goal to specialize in this field.
+I’ve designed autonomous robots, developed control systems in MATLAB/Simulink, and built perception and planning pipelines using Python. What drives me is building systems that actually function, not just in theory, but under real-world constraints.
+
+Right now I’m doubling down on learning about AV systems, especially perception, planning, and control integration, with the goal of becoming a systems-level engineer in the autonomous driving space.
 
 🔧 **Tech Stack**  
 - Programming: Python, C++, Embedded C, MATLAB  
