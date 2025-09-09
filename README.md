@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ivan McCauley  
 ### Mechatronics Engineer | ADAS & Autonomous Systems | Embedded Intelligence  
 
-I'm a Mechatronic Engineering graduate focused on building **real-time autonomous systems** - connecting perception, decision-making, and embedded control.  
+I'm a Mechatronic Engineering graduate focused on building **real-time autonomous systems**: from perception to control.  
 My passion lies in **autonomous vehicles**, **robotics**, and **intelligent systems**.  
 
 I’ve built lane detection pipelines, occupancy-grid planners, ROS 2 braking systems, real-time robots, and control simulations.  
