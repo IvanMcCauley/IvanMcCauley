@@ -1,23 +1,23 @@
 # 👋 Hi, I'm Ivan McCauley  
-### Mechatronics Engineer | Autonomous Systems | Embedded Intelligence
+### Mechatronics Engineer | ADAS & Autonomous Systems | Embedded Intelligence  
 
-I’m a Mechatronics Engineering graduate focused on building **real-time autonomous systems** -where perception, control, and embedded logic meet.
+I focus on building **real-time autonomous systems** - connecting perception, decision-making, and embedded control.  
+My passion lies in **autonomous vehicles**, **robotics**, and **intelligent systems**.  
 
-My passion lies in **autonomous vehicles**, **robotics**, and **intelligent systems**. I’ve built lane detection pipelines, occupancy grid planners, real-time robots, and control simulations - all grounded in practical implementation, not just theory.
+I’ve built lane detection pipelines, occupancy-grid planners, ROS 2 braking systems, real-time robots, and control simulations.  
 
-I care about systems that work under real-world constraints: vision in noisy dashcam footage, embedded logic on microcontrollers, and planning algorithms that respond in milliseconds.
-
-Right now, I’m doubling down on **AV stack development** - especially in **perception, BEV mapping, and motion planning** - aiming to become a systems-level engineer in the autonomous driving space.
+Right now, I’m doubling down on **AV stack development** - especially in **perception, BEV mapping, motion planning, and ROS 2 systems integration** - aiming to become a systems-level engineer in the autonomous driving space.  
 
 ---
 
 🔧 **Tech Stack**  
-- **Languages:** Python, C++, Embedded C, MATLAB  
-- **Tools:** OpenCV, Arduino IDE, Simulink, Git, MPLAB X  
-- **Domains:** AV/ADAS, Path Planning, Robotics, Control Systems, Embedded  
-- **Currently Exploring:** ROS2, Sensor Fusion, Kalman Filters
+- **Languages:** Python, C++, MATLAB  
+- **Tools:** ROS 2, OpenCV, Simulink, Git, Arduino IDE, MPLAB X  
+- **Domains:** ADAS/AV, Path Planning, Robotics, Control Systems, Embedded  
+- **Currently Exploring:** Sensor Fusion, Kalman Filters, Advanced ROS 2 patterns, AV safety standards (ISO 26262, SOTIF)
 
-🌱 **Highlighted Projects** 
+---
+
 🌱 **Highlighted Projects**  
 - 🛑 End-to-End ROS 2 Braking Pipeline  
    [Stage 1 – C++17 Braking Library](https://github.com/IvanMcCauley/braking_decision_lib) •  
