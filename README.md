@@ -19,6 +19,7 @@ Right now, I’m doubling down on **AV stack development** - especially in **per
 ---
 
 🌱 **Highlighted Projects**  
+###### Independent (post-grad):
 - 🛑 End-to-End ROS 2 Braking Pipeline  
    [Stage 1 – C++17 Braking Library](https://github.com/IvanMcCauley/braking_decision_lib) •  
    [Stage 2 – ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider) •  
@@ -27,6 +28,7 @@ Right now, I’m doubling down on **AV stack development** - especially in **per
 - 🧠 [Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner) - real-time autonomous driving simulation using YOLOv8, BEV projection, occupancy grid mapping, and A* path planning
 - 🧭 [Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation) - Python-based AV logic simulator using A*, LIDAR-style visibility, and dynamic replanning in real time
 - 🛣️ [Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection) — computer vision pipeline using OpenCV to detect and overlay road lanes from my dashcam footage
+###### Academic (selected):
 - 📌 [5 Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) - real-time reaction timer using Arduino  
 - 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) - Wi-Fi connected mobile robot
 - 🚗 [AGV – Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - custom-built line-following vehicle using optical sensors and MCU
