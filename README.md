@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ivan McCauley  
-### Mechatronic Engineer | ADAS & Autonomous Systems   
+### Mechatronic Engineering Graduate | ADAS & Autonomous Systems   
 
 I'm a Mechatronic Engineering graduate focused on building **real-time autonomous systems**: from perception to control.  
 My passion lies in **autonomous vehicles**, **robotics**, and **intelligent systems**.  
