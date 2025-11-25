@@ -21,9 +21,9 @@ Right now, I’m doubling down on **AV stack development** - especially in **per
 🌱 **Highlighted Projects**  
 ###### Independent (post-grad):
 - 🛑 End-to-End ROS 2 Braking Pipeline 
-  - [Stage 1 – C++17 Braking Library](https://github.com/IvanMcCauley/braking_decision_lib)   
-  - [Stage 2 – ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)   
-  - [Stage 3 – ROS 2 Validation Sim](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
+  - [Stage 1 - C++17 Braking Library](https://github.com/IvanMcCauley/braking_decision_lib)   
+  - [Stage 2 - ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)   
+  - [Stage 3 - ROS 2 Validation Sim](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
     Built as part of my [ADAS Learning Sprint (day-by-day log)](https://github.com/IvanMcCauley/Adas_Learning_Sprint): physics → C++ → ROS 2 → closed-loop sim.
 - 🧠 [Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner) - real-time autonomous driving simulation using YOLOv8, BEV projection, occupancy grid mapping, and A* path planning
 - 🧭 [Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation) - Python-based AV logic simulator using A*, LIDAR-style visibility, and dynamic replanning in real time
@@ -31,7 +31,7 @@ Right now, I’m doubling down on **AV stack development** - especially in **per
 ###### Academic (selected):
 - 📌 [5 Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) - real-time reaction timer using Arduino  
 - 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) - Wi-Fi connected mobile robot
-- 🚗 [AGV – Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - custom-built line-following vehicle using optical sensors and MCU
+- 🚗 [AGV - Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - custom-built line-following vehicle using optical sensors and MCU
 
 
 📫 **Let’s Connect**  
