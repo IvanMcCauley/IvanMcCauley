@@ -12,9 +12,9 @@ Right now, I’m doubling down on **AV stack development** - especially in **per
 
 🔧 **Tech Stack**  
 - **Languages:** Python, C++, MATLAB  
-- **Tools:** ROS 2, OpenCV, Simulink, Git, Arduino IDE, MPLAB X  
+- **Tools:** ROS 2, OpenCV, Simulink, Git, Arduino IDE  
 - **Domains:** ADAS/AV, Path Planning, Robotics, Control Systems, Embedded  
-- **Currently Exploring:** Sensor Fusion, Kalman Filters, Advanced ROS 2 patterns, AV safety standards (ISO 26262, SOTIF)
+- **Currently Exploring:** Sensor Fusion, Kalman Filters, ROS 2, AV safety standards (ISO 26262, SOTIF)
 
 ---
 
