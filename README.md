@@ -24,28 +24,23 @@ I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **
 
 ### Independent (post-grad)
 
-**🛑 End-to-End ROS 2 Braking Pipeline**  
-A staged braking system built to evaluate behaviour as scenario boundaries are pushed.
-- **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib)  
-- **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)  
-- **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
-- **Stage 4:** [System-Level Behaviour Evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation)  
-  *KPI-based analysis near safety limits (chatter, margins, stability)*  
-  - Built as part of my [ADAS Learning Sprint](https://github.com/IvanMcCauley/Adas_Learning_Sprint): physics → C++ → ROS 2 → closed-loop evaluation
+- 🛑 **End-to-End ROS 2 Braking Pipeline:** A staged braking system built to evaluate **system behaviour as scenario boundaries are pushed**, with KPI-based analysis near safety limits (chatter, margins, stability).
+  - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib)  
+  - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)  
+  - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
+  - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation)
+    - Built as part of my [ADAS Learning Sprint](https://github.com/IvanMcCauley/Adas_Learning_Sprint): progressing from physics → C++ → ROS 2 → closed-loop evaluation.
 
-**🧠 Dashcam BEV Path Planner**  
-[YOLOv8 → BEV → Occupancy Grid → A* Planning](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)  
-Autonomous driving simulation using real dashcam footage, BEV projection, and behaviour-aware path planning.
 
-**🧭 Autonomous Path Planning Simulator**  
-[Python-based decision-logic simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)  
-A* planning with LIDAR-style limited perception, frontier exploration, and dynamic replanning.
+- 🧠 **[Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)**: Autonomous driving simulation using real dashcam footage, BEV projection, occupancy grid mapping, and behaviour-aware A* planning.
 
-**🛣️ Dashcam Lane Detection**  
-[OpenCV-based lane detection pipeline](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)  
-ROI masking, Hough transform and lane overlay on dashcam video.
 
----
+- 🧭 **[Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)**: Python-based decision-logic simulator with A* planning, LIDAR-style limited perception, frontier exploration, and dynamic replanning.
+
+
+- 🛣️ **[Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)**: OpenCV-based lane detection pipeline using ROI masking, Hough transform, and real-time lane overlay on dashcam video.
+
+
 
 ### Academic (selected)
 
