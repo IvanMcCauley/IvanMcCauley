@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ivan McCauley  
 ### Mechatronic Engineering Graduate - Autonomous Driving & ADAS Systems
 
-I build small autonomous driving systems and simulations as a way to study how vehicle behaviour emerges from the interaction of perception, decision logic, and safety constraints.
+I study autonomous driving system behaviour by building small systems and simulations that explore the interaction of perception, decision logic, and safety constraints.
 
 My work focuses on decision-making near safety limits, behavioural margins, and failure modes - using simulation and closed-loop evaluation to understand why a system chooses a particular action.
 
