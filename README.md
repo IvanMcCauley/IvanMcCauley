@@ -1,44 +1,68 @@
-# 👋 Hi, I'm Ivan McCauley  
-### Mechatronic Engineering Graduate | ADAS & Autonomous Systems   
+# 👋 Hi, I’m Ivan McCauley  
+### Mechatronic Engineering Graduate - Autonomous Driving & ADAS Systems
 
-I'm a Mechatronic Engineering graduate focused on building **real-time autonomous systems**: from perception to control.  
-My passion lies in **autonomous vehicles**, **robotics**, and **intelligent systems**.  
+I build small autonomous driving systems and simulations as a way to study how vehicle behaviour emerges from the interaction of perception, decision logic, and safety constraints.
 
-I’ve built lane detection pipelines, occupancy-grid planners, ROS 2 braking systems, real-time robots, and control simulations.  
+My work focuses on decision-making near safety limits, behavioural margins, and failure modes - using simulation and closed-loop evaluation to understand why a system chooses a particular action.
 
-Right now, I’m doubling down on **AV stack development** - especially in **perception, BEV mapping, motion planning, and ROS 2 systems integration** - aiming to become a systems-level engineer in the autonomous driving space.  
+I’ve implemented braking decision pipelines, BEV-based planners, perception → planning demos on real dashcam data, and robotic control systems - with an emphasis on **system behaviour rather than isolated algorithms**.
+
+I’m currently seeking entry-level roles in **ADAS / autonomous driving**, particularly in **systems integration and behaviour-level development**, where simulation is used to reason about safety margins and failure modes.
+
 
 ---
 
-🔧 **Tech Stack**  
+## 🔧 Technical Focus
+- **Languages:** C++, Python, MATLAB  
+- **Core Tools:** ROS 2, OpenCV, Simulink, Linux, Git  
+- **Domains:** Autonomous Driving (ADAS), Decision Logic, Path Planning, Control Systems, Robotics  
+- **Actively Deepening:** Sensor Fusion, Kalman Filtering, ROS 2 system integration, AV safety concepts (ISO 26262, SOTIF)
+
+---
+
+## 🔧 Technical Focus
 - **Languages:** Python, C++, MATLAB  
-- **Tools:** ROS 2, OpenCV, Simulink, Git, Arduino IDE  
-- **Domains:** ADAS/AV, Path Planning, Robotics, Control Systems, Embedded  
-- **Currently Exploring:** Sensor Fusion, Kalman Filters, ROS 2, AV safety standards (ISO 26262, SOTIF)
+- **Core Tools:** ROS 2, OpenCV, Simulink, Linux, Git  
+- **Domains:** Autonomous Driving (ADAS), Decision Logic, Path Planning, Control Systems, Robotics  
+- **Actively Deepening** Sensor Fusion, Kalman Filtering, ROS 2 system integration, AV safety standards (ISO 26262, SOTIF)
 
 ---
 
-🌱 **Highlighted Projects**  
-###### Independent (post-grad):
-- 🛑 End-to-End ROS 2 Braking Pipeline 
-  - [Stage 1 - C++17 Braking Library](https://github.com/IvanMcCauley/braking_decision_lib)   
-  - [Stage 2 - ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)   
-  - [Stage 3 - ROS 2 Validation Sim](https://github.com/IvanMcCauley/ros2_brake_validation_sim)
-  - [Stage 4 - System-level behaviour evaluation (KPI-based validation near safety limits)](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation)
-    - Built as part of my [ADAS Learning Sprint (day-by-day log)](https://github.com/IvanMcCauley/Adas_Learning_Sprint): physics → C++ → ROS 2 → closed-loop sim.
+## 🌱 Selected Projects
 
-- 🧠 [Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner) - real-time autonomous driving simulation using YOLOv8, BEV projection, occupancy grid mapping, and A* path planning
-- 🧭 [Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation) - Python-based AV logic simulator using A*, LIDAR-style visibility, and dynamic replanning in real time
-- 🛣️ [Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection) — computer vision pipeline using OpenCV to detect and overlay road lanes from my dashcam footage
-###### Academic (selected):
-- 📌 [5 Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) - real-time reaction timer using Arduino  
-- 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) - Wi-Fi connected mobile robot
-- 🚗 [AGV - Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - custom-built line-following vehicle using optical sensors and MCU
+### Independent (post-grad)
 
+**🛑 End-to-End ROS 2 Braking Pipeline**  
+A staged braking system built to evaluate behaviour as scenario boundaries are pushed.
+- **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib)  
+- **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)  
+- **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
+- **Stage 4:** [System-Level Behaviour Evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation)  
+  *KPI-based analysis near safety limits (chatter, margins, stability)*  
+  - Built as part of my [ADAS Learning Sprint](https://github.com/IvanMcCauley/Adas_Learning_Sprint): physics → C++ → ROS 2 → closed-loop evaluation
 
-📫 **Let’s Connect**  
+**🧠 Dashcam BEV Path Planner**  
+[YOLOv8 → BEV → Occupancy Grid → A* Planning](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)  
+Autonomous driving simulation using real dashcam footage, BEV projection, and behaviour-aware path planning.
+
+**🧭 Autonomous Path Planning Simulator**  
+[Python-based decision-logic simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)  
+A* planning with LIDAR-style limited perception, frontier exploration, and dynamic replanning.
+
+**🛣️ Dashcam Lane Detection**  
+[OpenCV-based lane detection pipeline](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)  
+ROI masking, hough transform and lane overlay on my own dashcam video.
+
+---
+
+### Academic (selected)
+
+- 📌 [5-Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) - Arduino-based reaction-time device  
+- 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) - Wi-Fi connected mobile robot  
+- 🚗 [AGV – Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - line-following vehicle with optical sensing and MCU control
+
+---
+
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/ivan-mccauley-82b17a177)  
 - [Email](mailto:mccauleyivan03@gmail.com)
-
-
-
