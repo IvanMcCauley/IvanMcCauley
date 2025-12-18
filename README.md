@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Ivan McCauley  
-### Mechatronic Engineering Graduate - Autonomous Driving & ADAS Systems
+### Mechatronic Engineering Graduate | Autonomous Driving & ADAS Systems
 
-I study autonomous driving system behaviour by building small systems and simulations that explore the interaction of perception, decision logic, and safety constraints.
+I study autonomous driving **system behaviour** by building small-scale systems and simulations that explore the interaction of perception, decision logic, and safety constraints.
 
-My work focuses on decision-making near safety limits, behavioural margins, and failure modes - using simulation and closed-loop evaluation to understand why a system chooses a particular action.
+My work focuses on **decision-making near safety limits**, behavioural margins, and failure modes, using closed-loop evaluation to understand why a system chooses a particular action.
 
-I’ve implemented braking decision pipelines, BEV-based planners, perception → planning demos on real dashcam data, and robotic control systems - with an emphasis on **system behaviour rather than isolated algorithms**.
+I’ve implemented braking decision pipelines, BEV-based planners, perception → planning demos on real dashcam data, and robotic control systems - with an consistent emphasis on **system behaviour rather than isolated algorithms**.
 
-I’m currently seeking entry-level roles in **ADAS / autonomous driving**, particularly in **systems integration and behaviour-level development**, where simulation is used to reason about safety margins and failure modes.
+I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **systems engineering / integration**, with a focus on feature behaviour, interfaces, and failure-mode robustness.
 
 
 ---
@@ -20,15 +20,7 @@ I’m currently seeking entry-level roles in **ADAS / autonomous driving**, part
 
 ---
 
-## 🔧 Technical Focus
-- **Languages:** Python, C++, MATLAB  
-- **Core Tools:** ROS 2, OpenCV, Simulink, Linux, Git  
-- **Domains:** Autonomous Driving (ADAS), Decision Logic, Path Planning, Control Systems, Robotics  
-- **Actively Deepening** Sensor Fusion, Kalman Filtering, ROS 2 system integration, AV safety standards (ISO 26262, SOTIF)
-
----
-
-## 🌱 Selected Projects
+## 🌱 Selected Work
 
 ### Independent (post-grad)
 
@@ -51,7 +43,7 @@ A* planning with LIDAR-style limited perception, frontier exploration, and dynam
 
 **🛣️ Dashcam Lane Detection**  
 [OpenCV-based lane detection pipeline](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)  
-ROI masking, hough transform and lane overlay on my own dashcam video.
+ROI masking, Hough transform and lane overlay on dashcam video.
 
 ---
 
