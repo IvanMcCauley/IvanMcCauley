@@ -7,7 +7,7 @@ My work focuses on **decision-making near safety limits**, behavioural margins, 
 
 I’ve implemented braking decision pipelines, BEV-based planners, perception → planning demos on real dashcam data, and robotic control systems - with an consistent emphasis on **system behaviour rather than isolated algorithms**.
 
-I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **systems engineering / integration**, with a focus on feature behaviour, interfaces, and failure-mode robustness.
+I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **systems engineering / validation**, with a focus on feature behaviour, interfaces, and failure-mode robustness.
 
 
 ---
@@ -16,7 +16,6 @@ I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **
 - **Languages:** C++, Python, MATLAB  
 - **Core Tools:** ROS 2, OpenCV, Simulink, Linux, Git  
 - **Domains:** Autonomous Driving (ADAS), Decision Logic, Path Planning, Control Systems, Robotics  
-- **Actively Deepening:** Sensor Fusion, Kalman Filtering, ROS 2 system integration, AV safety concepts (ISO 26262, SOTIF)
 
 ---
 
