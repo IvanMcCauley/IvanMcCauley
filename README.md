@@ -1,21 +1,20 @@
 # 👋 Hi, I’m Ivan McCauley  
 ### Mechatronic Engineering Graduate | Autonomous Driving & ADAS Systems
 
-I study autonomous driving **system behaviour** by building small-scale systems and simulations that explore the interaction of perception, decision logic, and safety constraints.
+I build small-scale ADAS and autonomy projects to understand how systems behave in real scenarios, especially how perception outputs, decision logic, and safety margins interact.
 
-My work focuses on **decision-making near safety limits**, behavioural margins, and failure modes, using closed-loop evaluation to understand why a system chooses a particular action.
+My work is focused less on isolated algorithms and more on expected vs actual behaviour, failure modes, and why a system makes a particular decision near safety limits.
 
-I’ve implemented braking decision pipelines, BEV-based planners, perception → planning demos on real dashcam data, and robotic control systems - with an consistent emphasis on **system behaviour rather than isolated algorithms**.
+Since graduating, I’ve built projects around braking behaviour evaluation, perception → planning pipeline and BEV-based path planning, with a strong emphasis on system testing, validation, and behaviour analysis.
 
-I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **systems engineering / validation**, with a focus on feature behaviour, interfaces, and failure-mode robustness.
-
+I’m currently seeking entry-level roles in ADAS / autonomous driving, particularly in systems engineering, system testing, or validation.
 
 ---
 
 ## 🔧 Technical Focus
 - **Languages:** C++, Python, MATLAB  
 - **Core Tools:** ROS 2, OpenCV, Simulink, Linux, Git  
-- **Domains:** Autonomous Driving (ADAS), Decision Logic, Path Planning, Control Systems, Robotics  
+- **Domains:** Autonomous Driving / ADAS, Decision Logic, Path Planning, Control Systems, Robotics  
 
 ---
 
@@ -24,10 +23,10 @@ I’m currently seeking entry-level roles in **ADAS / autonomous driving** in **
 ### Independent (post-grad)
 
 - 🛑 **End-to-End ROS 2 Braking Pipeline:** A staged braking system built to evaluate **system behaviour as scenario boundaries are pushed**, with KPI-based analysis near safety limits (chatter, margins, stability).
-  - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib)  
-  - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider)  
-  - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim)  
-  - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation)
+  - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib): Core braking logic based on reaction time, deceleration, and safety margin
+  - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider): Integrated into ROS 2 with parameters and real-time inputs
+  - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim): Simulated ego vehicle behaviour across varying scenarios
+  - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation): KPI-based analysis of edge cases (chatter, late braking, instability)
     - Built as part of my [ADAS Learning Sprint](https://github.com/IvanMcCauley/Adas_Learning_Sprint): progressing from physics → C++ → ROS 2 → closed-loop evaluation.
 
 
