@@ -23,11 +23,10 @@ I’m currently seeking entry-level roles in ADAS / autonomous driving, particul
 ### Independent (post-grad)
 
 - 🛑 **End-to-End ROS 2 Braking Pipeline:** A staged braking system built to evaluate **system behaviour as scenario boundaries are pushed**, with KPI-based analysis near safety limits (chatter, margins, stability).
-  - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib): Core braking logic based on reaction time, deceleration, and safety margin
-  - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider): Integrated into ROS 2 with parameters and real-time inputs
-  - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim): Simulated ego vehicle behaviour across varying scenarios
-  - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation): KPI-based analysis of edge cases (chatter, late braking, instability)
-    - Built as part of my [ADAS Learning Sprint](https://github.com/IvanMcCauley/Adas_Learning_Sprint): progressing from physics → C++ → ROS 2 → closed-loop evaluation.
+  - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib): Implemented the core stopping-distance logic with parameterised braking rules, input validation, and unit-tested C++ APIs.
+  - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider): Integrated the braking logic into a ROS 2 node with live inputs, configurable parameters, and real-time /brake_cmd outputs.
+  - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim): Built a 1D closed-loop simulator to replay brake commands through vehicle motion and verify that the system actually stops safely.
+  - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation): Built a scenario-based evaluation pipeline to compare expected vs actual closed-loop braking behaviour using KPIs, exposing instability and hidden failure modes
 
 
 - 🧠 **[Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)**: Autonomous driving simulation using real dashcam footage, BEV projection, occupancy grid mapping, and behaviour-aware A* planning.
