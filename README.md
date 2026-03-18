@@ -29,11 +29,9 @@ I’m currently seeking entry-level roles in ADAS / autonomous driving, particul
   - **Stage 4:** [System-level behaviour evaluation](https://github.com/IvanMcCauley/adas-braking-behaviour-evaluation): Built a scenario-based evaluation pipeline to compare expected vs actual closed-loop braking behaviour using KPIs, exposing instability and hidden failure modes
 
 
-- 🧠 **[Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)**: Autonomous driving simulation using real dashcam footage, BEV projection, occupancy grid mapping, and behaviour-aware A* planning.
+- 🧠 **[Dashcam BEV Path Planner](https://github.com/IvanMcCauley/Project_Dashcam-BEV-Path-Planner)**: Built an end-to-end perception → planning pipeline from dashcam video, converting detections into BEV occupancy grids for lane-constrained A* planning, with safety-aware behaviour under real-world perception uncertainty
 
-
-- 🧭 **[Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)**: Python-based decision-logic simulator with A* planning, LIDAR-style limited perception, frontier exploration, and dynamic replanning.
-
+- 🧭 **[Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)**: Autonomous path planning simulator with limited perception, using frontier exploration and dynamic A* replanning to navigate environments where the goal isn’t initially visible.
 
 - 🛣️ **[Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)**: OpenCV-based lane detection pipeline using ROI masking, Hough transform, and real-time lane overlay on dashcam video.
 
