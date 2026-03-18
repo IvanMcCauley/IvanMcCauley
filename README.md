@@ -33,8 +33,7 @@ I’m currently seeking entry-level roles in ADAS / autonomous driving, particul
 
 - 🧭 **[Autonomous Path Planning Simulator](https://github.com/IvanMcCauley/Project_Path-Planner-Simulation)**: Autonomous path planning simulator with limited perception, using frontier exploration and dynamic A* replanning to navigate environments where the goal isn’t initially visible.
 
-- 🛣️ **[Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)**: OpenCV-based lane detection pipeline using ROI masking, Hough transform, and real-time lane overlay on dashcam video.
-
+- 🛣️ **[Dashcam Lane Detection](https://github.com/IvanMcCauley/Project_Dashcam-Lane-Detection)**: Lane detection pipeline on dashcam footage using ROI masking, edge extraction, and line fitting.
 
 
 ### Academic (selected)
