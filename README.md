@@ -42,7 +42,7 @@ I’m currently seeking entry-level roles in ADAS / autonomous driving, particul
 System-level EPS modelling and closed-loop behaviour analysis in MATLAB/Simulink, evaluating PID control using time-domain KPIs and stability checks.
 - 📌 [5-Second Stop Rig](https://github.com/IvanMcCauley/Project_5-Second-Stop-Rig) - Arduino-based reaction-time device  
 - 🤖 [Autonomous Navigating Robot](https://github.com/IvanMcCauley/Project_Autonomous-Navigation-Robot) - Wi-Fi connected mobile robot  
-- 🚗 [AGV - Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - line-following vehicle with optical sensing and MCU control
+- 🚗 [AGV - Autonomous Guided Vehicle](https://github.com/IvanMcCauley/Project_AGV-Autonomous-Guided-Vehicle) - Line-following vehicle with optical sensing and MCU control
 
 ---
 
