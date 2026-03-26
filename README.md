@@ -22,7 +22,7 @@ I’m currently seeking entry-level roles in ADAS / autonomous driving, particul
 
 ### Independent (post-grad)
 
-- 🛑 **End-to-End ROS 2 Braking Pipeline:** A staged braking system built to evaluate **system behaviour as scenario boundaries are pushed**, with KPI-based analysis near safety limits (chatter, margins, stability).
+- 🛑 **End-to-End ROS 2 Braking Pipeline:** A staged braking system built to evaluate system behaviour as scenario boundaries are pushed, with KPI-based analysis near safety limits (chatter, margins, stability).
   - **Stage 1:** [C++17 Braking Decision Library](https://github.com/IvanMcCauley/braking_decision_lib): Implemented the core stopping-distance logic with parameterised braking rules, input validation, and unit-tested C++ APIs.
   - **Stage 2:** [ROS 2 Brake Decider Node](https://github.com/IvanMcCauley/ros2_brake_decider): Integrated the braking logic into a ROS 2 node with live inputs, configurable parameters, and real-time /brake_cmd outputs.
   - **Stage 3:** [ROS 2 Closed-Loop Validation Simulation](https://github.com/IvanMcCauley/ros2_brake_validation_sim): Built a 1D closed-loop simulator to replay brake commands through vehicle motion and verify that the system actually stops safely.
