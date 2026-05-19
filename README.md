@@ -1,13 +1,12 @@
 # 👋 Hi, I’m Ivan McCauley  
 ### Mechatronic Engineering Graduate | Autonomous Driving & ADAS Systems
 
-I build small-scale ADAS and autonomy projects to understand how systems behave in real scenarios, especially how perception outputs, decision logic, and safety margins interact.
+I'm building small-scale ADAS and autonomy projects to understand how systems behave in real scenarios, especially how perception outputs, decision logic, and safety margins interact.
 
 My work is focused less on isolated algorithms and more on expected vs actual behaviour, failure modes, and why a system makes a particular decision near safety limits.
 
 Since graduating, I’ve built projects around braking behaviour evaluation, perception → planning pipeline and BEV-based path planning, with a strong emphasis on system testing, validation, and behaviour analysis.
 
-I’m currently seeking entry-level roles in ADAS / autonomous driving, particularly in systems engineering, system testing, or validation.
 
 ---
 
